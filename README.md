@@ -11,6 +11,9 @@
 
 Cтремлюсь к профессиональному росту и развитию своих навыков. Oткрыт к общению.  
   <br />
+<p align='center'>
+ ⭐️  Cвязаться со мной можно по почте: <a href='mailto:bespaliy.sergei@yandex.ru'>ndvorkun@yandex.ru</a>
+</p>
 
 
 #### 💻 Мой стек💫:
@@ -22,6 +25,9 @@ Cтремлюсь к профессиональному росту и разви
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 <div>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MityaDD&show_icons=true&theme=transparent)
   
 
 
